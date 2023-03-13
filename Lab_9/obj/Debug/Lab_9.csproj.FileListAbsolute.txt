@@ -1,0 +1,8 @@
+C:\One\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+C:\One\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+C:\One\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+C:\One\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+C:\One\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.SuggestedBindingRedirects.cache
+C:\One\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+C:\One\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+C:\One\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
